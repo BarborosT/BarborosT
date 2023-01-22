@@ -8,7 +8,7 @@
 
 - 🤔 &nbsp; Exploring new technologies and learning what is done in the real dimension of data analysis.
 
-- 🎓 &nbsp; I am a Student of Management Information Systems at Ataturk University.
+- 🎓 &nbsp; I am a student of Management Information Systems at Ataturk University.
 
 - 🌱 &nbsp; I am interested in data with big data, Data mining and Artificial intelligence.
 
